@@ -165,7 +165,7 @@ Las reglas se generan automáticamente mediante scripts Groovy y se aplican inst
 # 📂 Estructura del Proyecto
 
 ```bash
-Radar/
+MotorAnalisisControlRiesgosTiempoReal/
 │
 ├── radar-admin/
 ├── radar-engine/
@@ -184,7 +184,7 @@ Radar/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/wfh45678/radar.git
+git clone https://github.com/isairey/MotorAnalisisControlRiesgosTiempoReal.git
 ```
 
 ---
@@ -225,21 +225,7 @@ mvn spring-boot:run
 
 ---
 
-# 📚 Documentación
 
-## Manual
-
-```bash
-https://gitee.com/freshday/radar/wikis/manual
-```
-
----
-
-## Wiki
-
-```bash
-https://gitee.com/freshday/radar/wikis/home
-```
 
 ---
 
@@ -305,12 +291,6 @@ Especial agradecimiento a:
 
 ---
 
-# 🏢 Sponsors
-
-- 中和农信项目管理有限公司
-- 二十六度数字科技(广州)有限公司
-
----
 
 # ⚠️ Nota Importante
 
@@ -334,7 +314,7 @@ Full Stack Developer • Java Engineer • Open Source 🚀
 
 # 📜 Licencia
 
-Copyright © 2019-2022 WangFeiHu
+MIT.
 
 ---
 
